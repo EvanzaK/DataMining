@@ -1,0 +1,11 @@
+Customer_ID,Name,Gender,Age,City,Annual_Income,Subscribed
+C001,Alice,Female,28,New York,85000,Yes
+C002,Bob,Male,,Los Angeles,62000,No
+C003,Charlie,Male,45,Chicago,93000,Yes
+C004,David,Male,23,San Francisco,,No
+C005,Eva,Female,38,Chicago,76000,Yes
+C006,Frank,Male,29,New York,92000,Yes
+C007,Grace,Female,,Los Angeles,65000,No
+C008,Hannah,Female,33,Chicago,71000,Yes
+C009,Ivan,Male,55,New York,,No
+C010,Jane,Female,27,San Francisco,78000,Yes
